@@ -1,4 +1,4 @@
-# Travello
+# Traveller
 
 Sri Lanka hotel booking, transport booking and trip planning.
 
@@ -12,5 +12,3 @@ Terminal 1 (backend, http://localhost:5000)
 
 Terminal 2 (frontend, http://localhost:3000)
     cd frontend && npm install && npm run dev
-
-Check the API: http://localhost:5000/api/health
